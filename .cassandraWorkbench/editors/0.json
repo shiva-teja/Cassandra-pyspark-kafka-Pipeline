@@ -1,0 +1,1 @@
+{"id":"z4NDp8aJUA2ci3ex","clusterName":"Cluster PasswordAuthenticator","keyspace":"tadaka","body":"select * from tadaka.employee;","modified":true,"filename":"script_1.cql","source":"action"}
